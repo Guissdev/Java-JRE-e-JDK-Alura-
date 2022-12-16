@@ -18,6 +18,6 @@ public class TestaVariaveis {
 		
 		idade = (11 * 2);
 		
-		System.out.println("A idaide é " + idade + ", Parabéns");
+		System.out.println("A idade é " + idade + ", Parabéns");
 	}
 }
